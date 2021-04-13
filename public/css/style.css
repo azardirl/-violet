@@ -1,0 +1,47 @@
+*{
+    margin: auto;
+    
+    
+}
+body{
+    background-color: rgb(175, 175, 175);
+    
+}
+
+
+
+.hide{
+    display:none;
+}
+ footer{
+    background-color: rgb(255, 255, 255);
+    
+   
+
+ }
+
+header{
+    background-color: rgb(255, 255, 255);
+}
+section{
+    margin: 10em;
+    text-align:justify;
+    
+     
+}
+i{
+      color: rgb(0, 0, 0);
+      font-size: 25px;
+      padding: 2%;
+
+
+}
+
+.colorh1{
+    color:rgb(0, 0, 0);
+}
+.imgAvatar{
+    height: 60px;
+    width: 60px;
+
+}
